@@ -1,0 +1,32 @@
+[
+  {
+    "cueStart": "00:00:01.500",
+    "cueEnd": "00:00:03.000",
+    "Image": "media/shrug.webp",
+    "GIF": "",
+    "Sound": ""
+  },
+  {
+    "cueStart": "00:00:04.500",
+    "cueEnd": "00:00:06.000",
+    "Image": "",
+    "GIF": "media/chat_animation.gif",
+    "Sound": ""
+  },
+
+  {
+    "cueStart": "00:00:07.500",
+    "cueEnd": "00:00:09.000",
+    "Image": "media/shrug.webp",
+    "GIF": "",
+    "Sound": "media/straw_squeak.mp3"
+  },
+
+  {
+    "cueStart": "00:00:10.500",
+    "cueEnd": "00:00:12.000",
+    "Image": "",
+    "GIF": "media/chat_animation.gif",
+    "Sound": "media/woodpecker.mp3"
+  }
+]
